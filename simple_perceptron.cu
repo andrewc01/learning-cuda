@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cuda_runtime.h>
+#include <cuda_runtime.h> // CUDA runtime API
 
 // Defining the activation function kernel
 // __global__ is used to define a kernel function that will be executed on the GPU
